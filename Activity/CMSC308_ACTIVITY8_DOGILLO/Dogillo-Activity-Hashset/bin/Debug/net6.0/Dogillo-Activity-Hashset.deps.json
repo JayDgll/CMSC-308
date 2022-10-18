@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dogillo-Activity-Hashset/1.0.0": {
+        "runtime": {
+          "Dogillo-Activity-Hashset.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dogillo-Activity-Hashset/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

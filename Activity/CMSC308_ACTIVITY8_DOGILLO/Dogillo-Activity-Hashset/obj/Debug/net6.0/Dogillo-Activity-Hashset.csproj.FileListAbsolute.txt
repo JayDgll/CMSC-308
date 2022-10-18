@@ -1,0 +1,15 @@
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\bin\Debug\net6.0\Dogillo-Activity-Hashset.exe
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\bin\Debug\net6.0\Dogillo-Activity-Hashset.deps.json
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\bin\Debug\net6.0\Dogillo-Activity-Hashset.runtimeconfig.json
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\bin\Debug\net6.0\Dogillo-Activity-Hashset.dll
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\bin\Debug\net6.0\Dogillo-Activity-Hashset.pdb
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\Dogillo-Activity-Hashset.csproj.AssemblyReference.cache
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\Dogillo-Activity-Hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\Dogillo-Activity-Hashset.AssemblyInfoInputs.cache
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\Dogillo-Activity-Hashset.AssemblyInfo.cs
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\Dogillo-Activity-Hashset.csproj.CoreCompileInputs.cache
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\Dogillo-Activity-Hashset.dll
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\refint\Dogillo-Activity-Hashset.dll
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\Dogillo-Activity-Hashset.pdb
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\Dogillo-Activity-Hashset.genruntimeconfig.cache
+C:\Users\AJ Dogillo\source\repos\Dogillo-Activity-Hashset\Dogillo-Activity-Hashset\obj\Debug\net6.0\ref\Dogillo-Activity-Hashset.dll
